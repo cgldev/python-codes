@@ -1,4 +1,4 @@
-# This code prints "Hola" 10 times using a for loop
+# Este código imprime 10 veces "Hola" usando el loop for.
 
 for i in range(10):
     print("Hola")
